@@ -8,9 +8,8 @@ Interested in **backend development, algorithms, and machine learning**.
 ## 🛠 Tech Stack
 
 **Languages**
-- Python
 - C++
-- Java
+- Python
 - TypeScript
 - HTML / CSS
 
